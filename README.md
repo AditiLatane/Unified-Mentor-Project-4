@@ -2,7 +2,7 @@
 ## Aim
 
 For a project based on Olympics data analysis, the primary focus will be on exploring and understanding the dataset, performing exploratory data analysis (EDA), and uncovering trends and insights related to athletes, countries, and sports over the years.
----
+
 ## Problem Statement
 
 The primary goal is to:
@@ -10,7 +10,7 @@ The primary goal is to:
 2. Identify the top-performing countries and athletes.
 3. Study the gender distribution of events and medals.
 4. Visualize the data using Python.
----
+
 ## Steps : 
 
 ### 1.  Data Preparation
@@ -63,7 +63,7 @@ Steps:
    3. Random Forest
    4. XGBoost
    5. LightGBM
----
+   
 ## 5. Results
    
 | Model               | Accuracy (%) |
@@ -74,7 +74,7 @@ Steps:
 | LightGBM             | 69.34        |
 | Logistic Regression  | 41.01        |
 
----
+
 ## 6. Conclusion
 
 ● Top Performing Country is :
