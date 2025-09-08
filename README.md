@@ -76,27 +76,26 @@ Steps:
 | Logistic Regression  | 41.01        |
 
 
-## 6. Conclusion
+## 6. Conclusion 
 
-● Top Performing Country is :
-        1. United States
+- **Top Performing Country**  
+  - United States  
 
-● Top Athletes: We identified athletes who won the most medals are :
-        1. Nemov, Alexei (12 medals)
-        2. Andrianov, Nikolay (12 medals)
-        3. Diabatin, Aleksandr (11 medals)
-    
-● Gender Participation:
-        1. Male : 64%
-        2. Female : 36%
+- **Top Athletes**  
+  - Nemov, Alexei – 12 medals  
+  - Andrianov, Nikolay – 12 medals  
+  - Diabatin, Aleksandr – 11 medals  
 
-● Trend of Medals Over Years: 
-        1. We visualized the trend of medal wins over the years.
-        2. That shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
+- **Gender Participation**  
+  - Male: 64%
+  - Female: 36%  
 
-● Predictive Analysis:
-        1. Random forest performs best with 73.49% accuracy.
+- **Trend of Medals Over Years**  
+  - Medals won increased steadily across the years.  
+  - Significant peak observed in 2000, with over **2000 medals** awarded.  
+
+- **Predictive Analysis**  
+  - Random Forest achieved the **best accuracy: 73.49%**  
 
 
-
-Next Project : https://github.com/AditiLatane/Unified-Mentor-Task-1
+🔗 **Next Project:** [Unified-Mentor-Task-1](https://github.com/AditiLatane/Unified-Mentor-Task-1)
