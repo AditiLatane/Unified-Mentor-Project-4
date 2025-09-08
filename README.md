@@ -79,7 +79,7 @@ Steps:
 ## 6. Conclusion
 
 ● Top Performing Country is :
-        United States
+        1. United States
 
 ● Top Athletes: We identified athletes who won the most medals are :
         1. Nemov, Alexei (12 medals)
@@ -90,11 +90,12 @@ Steps:
         1. Male : 64%
         2. Female : 36%
 
-● Trend of Medals Over Years:
-        We visualized the trend of medal wins over the years, that shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
+● Trend of Medals Over Years: 
+        1. We visualized the trend of medal wins over the years.
+        2. That shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
 
 ● Predictive Analysis:
-       Random forest performs best with 73.49% accuracy.
+        1. Random forest performs best with 73.49% accuracy.
 
 
 
