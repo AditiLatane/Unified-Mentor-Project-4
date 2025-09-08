@@ -2,7 +2,7 @@
 ## Aim
 
 For a project based on Olympics data analysis, the primary focus will be on exploring and understanding the dataset, performing exploratory data analysis (EDA), and uncovering trends and insights related to athletes, countries, and sports over the years.
-
+---
 ## Problem Statement
 
 The primary goal is to:
@@ -10,7 +10,7 @@ The primary goal is to:
 2. Identify the top-performing countries and athletes.
 3. Study the gender distribution of events and medals.
 4. Visualize the data using Python.
-
+---
 ## Steps : 
 
 ### 1.  Data Preparation
@@ -27,7 +27,7 @@ The primary goal is to:
 2. Plot and analyze trends of medals across years.
 3. Identify the top-performing athletes and countries.
 
-### 3. Questions
+### 3. Questions answered
 1. Which city hosted maximum number of olympics?
 2. Which city hosted the most events?
 3. Understand the events themselves.
@@ -45,17 +45,17 @@ Train a machine learning model to predict whether an athlete will win a medal ba
 Steps:
 1. Encode categorical variables
 2. Feature Engineering
-  1. Country-Level/City-Level Features
-  2. Sport/Discipline-Level Features
-  3. Athlete-Level Features
-  4. Gender-Based Features
-  5. Event-Level Features
-  6. Temporal Features
+    1. Country-Level/City-Level Features
+    2. Sport/Discipline-Level Features
+    3. Athlete-Level Features
+    4. Gender-Based Features
+    5. Event-Level Features
+    6. Temporal Features
 
 3. Splitting and Training Dataset
    
-Training shape: (12252, 20) (12252,)
-Testing shape: (3063, 20) (3063,)
+    Training shape: (12252, 20) (12252,)
+    Testing shape: (3063, 20) (3063,)
 
 5. Choose a Model
    1. Logistic Regression
@@ -63,7 +63,7 @@ Testing shape: (3063, 20) (3063,)
    3. Random Forest
    4. XGBoost
    5. LightGBM
-
+---
 ## 5. Results
    
 | Model               | Accuracy (%) |
@@ -74,28 +74,25 @@ Testing shape: (3063, 20) (3063,)
 | LightGBM             | 69.34        |
 | Logistic Regression  | 41.01        |
 
+---
 ## 6. Conclusion
 
 ● Top Performing Country is :
     United States
 
 ● Top Athletes: We identified athletes who won the most medals are :
-
     1. Nemov, Alexei (12 medals)
     2. Andrianov, Nikolay (12 medals)
     3. Diabatin, Aleksandr (11 medals)
     
 ● Gender Participation:
-
     1. Male : 64%
     2. Female : 36%
 
 ● Trend of Medals Over Years:
-
     We visualized the trend of medal wins over the years, that shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
 
 ● Predictive Analysis:
-
     Random forest performs best with 73.49% accuracy.
 
 
