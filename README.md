@@ -28,19 +28,20 @@ The primary goal is to:
 3. Identify the top-performing athletes and countries.
 
 ### 3. Questions
-Q1. Which city hosted maximum number of olympics ?
-Q2. Which city hosted the most events.
-Q3. Understand the events themselves.
-Q4. Which Athlete has won the most medals from a given period?
-Q5. Put some light on gender ratio in winning teams?
-Q6. Which country has won the most medals and how many in each year?
-Q7. Can you tell me which country has dominated any particular sport?
-Q8. Has any athlete changed his or her Event or Discipline or sport and still won the medal?
-Q9. Which country has won the most medals and how many in each year? Elaborate the result and dive into details.(Pick any 5 country for this)
+1. Which city hosted maximum number of olympics?
+2. Which city hosted the most events?
+3. Understand the events themselves.
+4. Which Athlete has won the most medals from a given period?
+5. Put some light on gender ratio in winning teams?
+6. Which country has won the most medals and how many in each year?
+7. Can you tell me which country has dominated any particular sport?
+8. Has any athlete changed his or her Event or Discipline or sport and still won the medal?
+9. Which country has won the most medals and how many in each year? Elaborate the result and dive into details.(Pick any 5 country for this)
 
 
 ### 4. Predictive Analysis:
 Train a machine learning model to predict whether an athlete will win a medal based on their country, sport, and other attributes.
+
 Steps:
 1. Encode categorical variables
 2. Feature Engineering
@@ -52,15 +53,16 @@ Steps:
   6. Temporal Features
 
 3. Splitting and Training Dataset
+   
 Training shape: (12252, 20) (12252,)
 Testing shape: (3063, 20) (3063,)
 
-4. Choose a Model
-  1. Logistic Regression
-  2. Decision Tree
-  3. Random Forest
-  4. XGBoost
-  5. LightGBM
+5. Choose a Model
+   1. Logistic Regression
+   2. Decision Tree
+   3. Random Forest
+   4. XGBoost
+   5. LightGBM
 
 ## 5. Results
    
@@ -75,15 +77,19 @@ Testing shape: (3063, 20) (3063,)
 ## 6. Conclusion
 
 ● Top Performing Country is : United States
+
 ● Top Athletes: We identified athletes who won the most medals are :
     1. Nemov, Alexei (12 medals)
     2. Andrianov, Nikolay (12 medals)
     3. Diabatin, Aleksandr (11 medals)
+    
 ● Gender Participation:
     1. Male : 64%
     2. Female : 36%
+
 ● Trend of Medals Over Years:
     We visualized the trend of medal wins over the years, that shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
+
 ● Predictive Analysis:
     Random forest performs best with 73.49% accuracy.
 
