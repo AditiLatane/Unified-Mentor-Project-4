@@ -55,6 +55,7 @@ Steps:
 3. Splitting and Training Dataset
    
     Training shape: (12252, 20) (12252,)
+   
     Testing shape: (3063, 20) (3063,)
 
 5. Choose a Model
@@ -78,22 +79,22 @@ Steps:
 ## 6. Conclusion
 
 ● Top Performing Country is :
-    United States
+        United States
 
 ● Top Athletes: We identified athletes who won the most medals are :
-    1. Nemov, Alexei (12 medals)
-    2. Andrianov, Nikolay (12 medals)
-    3. Diabatin, Aleksandr (11 medals)
+        1. Nemov, Alexei (12 medals)
+        2. Andrianov, Nikolay (12 medals)
+        3. Diabatin, Aleksandr (11 medals)
     
 ● Gender Participation:
-    1. Male : 64%
-    2. Female : 36%
+        1. Male : 64%
+        2. Female : 36%
 
 ● Trend of Medals Over Years:
-    We visualized the trend of medal wins over the years, that shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
+        We visualized the trend of medal wins over the years, that shows the increasing graph and a significant increase, peaking at over 2000 medals in 2000.
 
 ● Predictive Analysis:
-    Random forest performs best with 73.49% accuracy.
+       Random forest performs best with 73.49% accuracy.
 
 
 
