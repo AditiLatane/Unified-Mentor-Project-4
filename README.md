@@ -103,4 +103,4 @@ Steps:
   - Random Forest achieved the **best accuracy: 73.49%**  
 
 
-🔗 **Next Project:** [Unified-Mentor-Task-1](https://github.com/AditiLatane/Unified-Mentor-Task-1)
+🔗 **Next Project:** [Unified-Mentor-Project-1](https://github.com/AditiLatane/Unified-Mentor-Project-1)
